@@ -7,12 +7,15 @@ Hello Stranger 👨🏽‍💻
 
 <p align='center'>
 My name is Patrick Cruz and I'm from Brazil 🇧🇷. 
-
+</p>
+<p align='center'>
 A Front End Developer and more.   💻📱
 Always learning!
-
+</p>
+<p align='center'>
 Would you like to contact mew ? 
 </p>
+
 
 <p align='center'>
   
