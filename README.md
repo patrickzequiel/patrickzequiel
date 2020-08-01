@@ -32,5 +32,7 @@ Would you like to contact mew ?
 </p>
 
 <p align='center'>
-📧 patrickezequielscruz@gmail.com
+<a href='mailto:apatrickezequielscruz@gmail.com'>📧 patrickezequielscruz@gmail.com/a>
+</p>
+
 </p>
