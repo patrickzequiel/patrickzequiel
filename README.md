@@ -9,11 +9,12 @@ Hello Stranger 👨🏽‍💻
 My name is Patrick Cruz and I'm from Brazil 🇧🇷. 
 </p>
 <p align='center'>
-A Front End Developer and more.   💻📱
+
+I'm Front End Developer and more.   💻📱
 Always learning!
 </p>
 <p align='center'>
-Would you like to contact mew ? 
+Would you like to contact me ? 
 </p>
 
 
