@@ -9,7 +9,7 @@ Hello Stranger 👨🏽‍💻
 My name is Patrick Cruz and I'm from Brazil 🇧🇷. 
 </p>
 <p align='center'>
-I'm Front End and Mobile (Junior) Developer and more.   💻📱
+I'm Software Engineer and more.   💻📱
 Always learning!
 </p>
 <p align='center'>
