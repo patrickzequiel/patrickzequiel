@@ -6,7 +6,7 @@ Hello Stranger 👨🏽‍💻
 
 
 <p align='center'>
-My name is Patrick Cruz and I'm from Brazil 🇧🇷. 
+My name is Patrick Cruz and I'm from Brazil 🇧🇷 but currently living in Belgium 🇧🇪. 
 </p>
 <p align='center'>
 I'm Software Engineer and more.   💻📱
@@ -19,13 +19,10 @@ Would you like to contact me ?
 
 <p align='center'>
   
-  <a href="https://patrickzequiel.github.io/resume">
-    <img src="https://img.shields.io/badge/RESUME-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />    
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/patrickzequiel/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/patrickzequiel">
+  <a href="https://www.instagram.com/patescruz">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
