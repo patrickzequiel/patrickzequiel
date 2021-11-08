@@ -34,6 +34,4 @@ Would you like to contact me ?
 
 </p>
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/patrickzequiel/github-readme-stats)
-
 
