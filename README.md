@@ -29,7 +29,7 @@ Would you like to contact me ?
 </p>
 
 <p align='center'>
-<a href='mailto:patescruz@gmail.com'>📧 patescruz@gmail.com
+<a href='mailto:patrickezequielscruz@gmail.com'>📧 patrickezequielscruz@gmail.com
 </p>
 
 </p>
